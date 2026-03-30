@@ -14,8 +14,9 @@ A lightweight Node.js application packaged using Docker for consistent deploymen
 ## Getting Started
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/sair05/Devops.git
 
+2. Build the Docker Image
 ### 2. Build the Docker Image
 docker build -t node-js-app .
 
